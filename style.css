@@ -1,0 +1,28 @@
+.slider-section img{
+    height: 550px;
+}
+.thead-dark{
+    border-right: 1px solid #ddd;
+}
+.level{
+    border: 1px solid black;
+    width: 550px;
+    padding: 15px;
+}
+.button-section{
+    display: inline-block;
+    background: rgb(137, 225, 65);
+    width: 100px;
+    border-radius: 5px;
+
+}
+.button-section:hover{
+    background: white;
+    color: yellowgreen;
+}
+.card-section{
+    border: 1px solid rgb(104, 97, 97);
+}
+.card-bottoms{
+    background: rgb(231, 230, 230);
+}
